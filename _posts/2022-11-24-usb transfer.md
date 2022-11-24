@@ -12,29 +12,29 @@ This article will analysis the USB data transfer in a top-down view.
 ## transfer type
 
 1. control transfer
-
+   
    - setup stage
-
+     
      setup transition
-
+   
    - data stage
-
+     
      bulk transition
-
+   
    - status stage
-
+     
      bulk transition
 
 2. bulk transfer
-
+   
    - bulk transition
 
 3. interrupt transfer
-
+   
    - interrupt transition
 
 4. isochronous transfer
-
+   
    - isochronous transition
 
 ## transition type
